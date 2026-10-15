@@ -1,6 +1,6 @@
 ## Sesión 1: Psicoeducación y Relajación Progresiva
 
-**Objetivo Clínico:** Establecer la alianza terapéutica, desmitificar el trastorno y proporcionar la primera herramienta de control fisiológico[cite: 65, 66].
+**Objetivo Clínico:** Establecer la alianza terapéutica, desmitificar el trastorno y proporcionar la primera herramienta de control fisiológico.
 
 **Guía de Intervención:**
 1. **Encuadre y Reglas:** Establecer confidencialidad, asistencia, puntualidad y la importancia crítica de las tareas para casa.
