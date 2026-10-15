@@ -3,7 +3,7 @@
 Bienvenida a tu manual de consulta rápida. Selecciona un trastorno o sesión para revisar el protocolo de intervención:
 
 ## 1. Fobia Específica
-* [Fase 1: Evaluación Inicial y Presentación](trastornos/fobia-especifica/fase-1-evaluacion.html)
+* [Fase 1: Evaluación Inicial y Presentación](trastornos/fobia-especifica/Sesión-1.html)
 * [Fase 2: Preparación para la Exposición](trastornos/fobia-especifica/fase-2-preparacion.html)
 * [Fase 3: Llevando a cabo la Exposición](trastornos/fobia-especifica/fase-3-exposicion.html)
 * [Fase 4: Otras Estrategias Complementarias](trastornos/fobia-especifica/fase-4-estrategias.html)
